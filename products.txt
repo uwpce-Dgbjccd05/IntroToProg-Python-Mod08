@@ -1,0 +1,3 @@
+Television,499.99
+Table,99.99
+Chair,49.99
